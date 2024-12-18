@@ -42,6 +42,7 @@ const HomeTabView = () => {
     </TabView>
   )
 }
+export default HomeTabView;
 const styles = StyleSheet.create({
   scene: {
     flex: 1,
